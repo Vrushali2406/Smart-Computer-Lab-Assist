@@ -29,10 +29,10 @@ Technologies Used
 Project Structure
 
 Smart-Lab-Asset-Management-System/
-├── main.py
-├── db.py
-├── models.py
-└── README.md
+  main.py
+  db.py
+  models.py
+  README.md
 
 Requirements
 
